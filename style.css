@@ -10,4 +10,7 @@ h1 {
 p {
     font-size: 20px;
     font-family: cursive;
+    section{
+        background: rgb(184, 156, 213);
+    }
 }
